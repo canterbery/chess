@@ -1,4 +1,4 @@
-import { Board } from "./../Board";
+import { Board } from "../Board";
 import { Colors } from "../../utils/Colors";
 import { Figure, FigureNames } from "./Figure";
 import blackBishop from "../../assets/black_bishop.png";

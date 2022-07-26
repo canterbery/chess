@@ -1,4 +1,4 @@
-import { Board } from "./../Board";
+import { Board } from "../Board";
 import { Colors } from "../../utils/Colors";
 import img from "../../assets/black_king.png";
 import { Cell } from "../Cell";
